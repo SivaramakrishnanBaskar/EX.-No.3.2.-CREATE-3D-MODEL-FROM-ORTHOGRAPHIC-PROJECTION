@@ -18,7 +18,7 @@ To create a 3D model from given orthographic projection.
 ![image](https://user-images.githubusercontent.com/113594316/198823371-bacc7928-28aa-45dd-a652-8833f95e3ea9.png)
 
 4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
-
+ 
 ![image](https://user-images.githubusercontent.com/113594316/198823384-c72c4c0f-9650-48db-b7da-697a0f22886b.png)
 
 5.	Use inspect feature to measure the dimensions of sketch.
